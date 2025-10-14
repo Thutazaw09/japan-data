@@ -1,0 +1,68 @@
+# Focusing on the experimental and computational study of fluid flow in pipes with flexible walls. 
+
+-> Experiment was carried out on the deforming tube and verified by numberical FSI simulation
+-> Due to the large deformations occurring during loading of the tube, it was necessary to work with a dynamic mesh in CFD part. 
+-> Neo-Hookean and Mooney-Rivlin materil were considered 
+-> Blood flowing in vessels is a heterogeneous liquid and exhibits non-Newtonian properties.
+-> the result show mainly comparisons of unsteady velocity profiles between experimental and numberical model.
+
+
+The Aim of the study was therefore primarily to compare the experimental part realized by (PIV) with numerical results of FSI simulation, which in addition to prediction allows a relatively large degree of evaluation and data collection for further study and analysis. 
+
+# Experiment
+-> the artery materil itself should be understood as anisotropic and heterogeneous.
+-> it exhibits large elastic deformations and is classifed as a so-called hyperelastic materials, which are characterized by non-linear dependence between stress and strain. 
+
+-> Water, chosen as the liquid, belongs to the Newtonian liquids
+-> the deformation tube itself was made of silicon (polydimethylsiloxane - PDMS), which as subsequently considered hyperelastic and homogeneous.
+-> the diaphragm pump as a source of pulsating flow
+-> Data from Fig.2 was then used to define boundary conditions for numerical simulation 
+
+# Numerical FSI simulation
+
+-> System Coupling was used to bind FEM and CFD.
+-> Transient Structural 
+-> ANSYS Fluent
+
+
+-> Due to the large deformation occuring during loading of the tube, it was necessary to work with a dynamic mesh in the CFD part of the task.
+-> Dynamic mesh Update methods in Diffusion-based smoothing were chosen in the deforming regions. 
+-> All zones of the fluid domain except for the liquid-elastic wall interface (wall deforming) were then defined as deforming. 
+-> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

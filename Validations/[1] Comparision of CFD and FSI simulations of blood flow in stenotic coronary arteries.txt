@@ -1,0 +1,27 @@
+Comparison of CFD and FSI simulations of blood flow in stenotic
+coronary arteries
+
+-> Computational fluid dynamics methods, where only the blood flow
+behavior is considered 
+-> FSI model for the wall compliance
+
+-> the infludence of wall compliance was noteworthy on wall shear stress distribution
+its effect on wall shear stress and on the oscillatory shear index was minor.
+
+# atheorosclerosis -> the blood clot on both arteris and veins
+
+paper 1o to 13 are computational paper
+paper 14 is the FSI paper 
+
+# paper 21 and 22 are also FSI paper and paper 25
+
+
+# Geometry 
+the thickness of solid domain is 27 and 28 
+
+
+
+
+
+ 
+ 
