@@ -1,0 +1,25 @@
+optical properties of the material
+forward 
+backward 
+
+optical properties of the samples 
+can combine with simulation
+
+simple model to estimate the optical properties
+can calculate the propagation of the photo with simulation
+spherical system 
+
+100,000 yen for the system
+
+scattering of light 
+monte carlo 
+
+
+laster 
+spherical 
+detector 
+
+System name is Integrating sphere appratus 
+measurement 
+
+
