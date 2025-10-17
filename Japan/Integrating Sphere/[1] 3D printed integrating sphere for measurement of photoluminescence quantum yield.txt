@@ -1,0 +1,52 @@
+# Demonstrated to give accurate and reproducible experimental 
+measurements of luminescence quantum yield of various 
+semiconducting fluorophores.
+
+#
+-> The PLQY of a material is also indirectly related to its 
+electroluminescence efficiency. 
+-> high PLQY can reduce energy consumption.
+-> The efficiency of a fluorescent material is related to its internal photo-luminescent quantum yield (PLQY)
+-> the PLQY is simply the ratio of the number of photons emitted by the material to the number of photons absorbed.
+ 
+-> angular anisotropy of emission 
+anisotropic -> a physical property which has a different value 
+when measured in different directions.
+
+-> by using the integrating sphere to collect all the emitted light, angular anisotropy can be overcomed.
+-> the purpose of an integrating sphere is to spatially integrate radiant flux.
+-> Integrating sphere is a hollow sphere coated internally with highly diffusely reflecting material. when a light source is placed insdie the sphere the light output is redistributed isotropically over the whole of the internal surface, despite any angular preference of the initial emission. this light can be collected with a fibre-coupled spectrometer to determine the spectrum and intensity.
+
+-> excitation source is a laser
+-> to take absoulte measurements, the sphere-spectrometer system also requires calibrating, usually National Institute of standard technology (NIST) verified black-body light source.
+-> the aim of this project is to experimentally robust and accurate instrument which presents opportunities to measure state-of-the art photoluminescent material samples in a simple easily executed experiment, in order to calculate their PLQY.
+-> this provides opportunities to directly illustrate
+-> optical spectroscopy, lasers, optics, simple circuits, black body radiation and data gathering.
+
+-> the body is designed in two hemispheres which are hinged together usnig two pins turned from PTFE plastic.
+-> the hemispheres have a light trap labyrinth at the mating faces, minimising any stray light entering the interior of the sphere. This allows data collection on samples to take place in a fully lit room.
+-> the side port, which allows the illuminating laser light to enter was made large enough for a laser pointer to be held securely in place. 
+-> It is important that the photo detector is not subject to direct illumination from any portion of the incident flex.
+-> so it is necessary to build a baffle arrangement into the sphere.
+-> the baffle is manufactured as a separate part again using 3D printing, and is fitted into the upper half of the sphere, directly shielding the fibre optic cable port.
+-> the fibre optic cable can be connected to the sphere by a standard (SMA) fitting, which was screwed direclty over teh aperture in the top of the sphere.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
