@@ -1,0 +1,112 @@
+# Double-integrating-sphere system for measuring the optical properties of tissue
+
+# Abstract 
+-> A system is described and evaluated for the simultaneous measurement of the intrinsic optical properties of tissue
+# the scattering coefficient
+# the absorption coefficient
+# the anisotropy factor
+
+# synthesizes the theory of two integrating spheres
+-> an interventing scattering sample with the inverse adding-doubling algorithm, which employs the adding-doubling solution of the radiative transfer equation to determine the optical properties from the measurement of the ligh flux within each sphere and of the unscattered transmission.
+-> allows for measurements to be made while the sample undergoes
+-> heating
+-> chemical change
+-> or other external stimulus
+
+an experimental validation of the system with tissue phantoms resulted in the determination of the optical properties with <5% deviation when the optical density was between 1 and 10 and the albedo was between 0.4 and 0.95
+
+# Introduction
+-> the purpose of this paper is to present a synthesis of what we believe is the most appropriate solution to the radiative transfer equation with a measuring technique
+# Literature review
+-> a list of optical properties measured by a variety of techniques 
+-> techniques and their associated advantages and disadvantages were discussed.
+-> the exterme variation in the properties of some tissues measured by different techniques (assuming that no gross errors were made) may be attribute to 
+-> differences between in vivo and in vitro measurements, 
+-> differences in radiative transfer models
+-> differences in tissue preparation
+-> differences in measuring techniques (with possibility of systematic errors)
+
+# Technique 1
+Light propagation in turbid media is characterized by 
+-> absorption coefficient 
+-> scattering coefficient
+-> scattering phase function
+-> refractive index 
+-> surface condition (rough or smooth)
+The measurement of refractive indices and surface conditions is important when light distribution near boundaries are considered
+
+# Technique 2
+
+-> the direct phase-function measurements performend by goniometry on thin slices of tissue have established the preference fro the H-G stein phase function 
+-> which describe the forward scattering nature of most tissues.
+-> this phase function may by described by the average cosine of the scattering angle, the anisotropy factor g, where g = 0 denotes isotropic scattering and g = 1 is totally forward scattering.
+-> the method used in this paper enables the calculation of the anisotropy under the assumption of the H-G Henyey-Greenstein Phase function.
+
+# Measuring Techniques
+-> in vivo measurements are the most immediately applicable to dosimetry, yet they present techniques that provide only limited information on optical properties.
+-> Interstitial fiber techniques (invasive)
+-> give the effective attenuation coefficient and sometimes the absorption and reduced scattering coefficient 
+-> reflectance and transmittance measurements as a function of source and deteractor position allow similarly the determinnation of ua and us.
+
+# other techniques
+-> photoacoustic spectroscopy yelds ua 
+and time-of-flight measurement
+-> pulsed photothermal radiometry yeld us` and ua
+
+-> in vitro measurements have the advantage over in vivo measurements in that the effect of individual tissue structures (for examples epidermis and dermis instead of the entire skin) may be evaluated
+
+-> other than the goniometric measurements the majority of techniques invlove the use of integrating spheres to measure reflection and transmission.
+
+-> the theory and practicality of integrating spheres for measuring the reflectance of a sample have been studied extensibely.
+
+-> The measurements of the reflection, the total transmission, and the the sample thickness allow the determination of ua and us`.
+
+-> The additional measurement of collimated transmission allows the separation of the reduced scattering coefficient into the scattering coefficient and the anisotropy
+-> The measurement has been made ofthen with a separated, thinner, sample because of the difficulties in detecting small quantities of light.
+
+-> if the measurements of reflection and diffuse and collimated transmission are all made from one sample placed between two integrating sphere, all there optical properties may be deducded simultaneously
+
+-> our principal reasion for developing this system for the simultaneous determination of optical properties is that it allows the investigation of the changes in optical properties during the application of heat.
+# advantages 
+-> requires only the minimal preparation of one tissue sample.
+
+
+-> we shall describe the practicalities of this system including the methodology of determining the influences of the sphere parameters, taking into account the exchange of light between spheres,
+avoiding light losses from the sample, the overall accuracy to which optical properties can be determined, and the importance of an accurate collimated transmission measurement.
+-> In addition, if collimated transmission measurements are impractical, we show that it is more accurate to use collimated incident light as opposed to diffuse incident light for reflection and total transmission measurements. 
+
+-> to determine the optical properties from the measured light flux in the two spheres and the collimated transmitted light flux, 
+we use an iterative method with the adding-doubling solution of the radiative transfer equation.
+-> This inverse adding-doubling algorithm is discussed in a sister paper.[1]
+-> we choosed this solution because it allows the use of collimated and diffuse incident light, is applicable with slab geometry, can account for boundary conditions, and is relatively fast in computation.
+
+-> the goal is to obtain the absorption and scattering characteristics of the tissue, we do not attempt to calculate the percentage of light reflected or transmitted by the sample, but rather we calculate the expected flux in each sphere wit hte adding doubling algorithm and by using the sphere formulas.
+-> compared these with measure flux
+when they do not match, a new set of optical properties is used to recalcualte the fluxes, and there are one more compared with the measured fluxes. 
+-> and these are one more compared with the measured fluxes.
+
+# Integrating sphere theory
+
+-> Sphere formulas for both diffuse and collimated incident light are given since they are incessary for understanding the procedures for calibrating the spheres. 
+
+A Single-sphere theory
+-> to measure the reflected and transmitted light from a sample, we situated it as, 
+the exit or entrance port of a sphere. 
+-> Normally the detector is situated on the inner sphere surface. 
+-> often tissue is placed between glass plates to prevent dehydration to provide mechanical support, and to minimize surface effects. the influence of these plates on the reflected and transmitted light may be calculated.
+-> the theory requires that no direactly reflected light from the sample irradiates the detector, therefore a baffle is placed between the sample and the detector.
+-> the integrating sphere theory accounts for the losses caused by absorption from the sphere wall and the light escaping the sphere. 
+-> the power detected depends on the total light remaining within the sphere and on the relative (to the total sphere area) size of the detector. 
+
+
+[sphere theory]
+
+
+# Measurement Techniques and Sphere Constants
+
+
+
+
+
+
+
