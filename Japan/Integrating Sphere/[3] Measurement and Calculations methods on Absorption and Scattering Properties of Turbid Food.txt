@@ -1,0 +1,219 @@
+Measurement and calculation methods on absorption and scattering properties of Turbid food in Vis/NIR Range
+
+# The ability of light to penetrate a turbid material depends on tis absorption and scattering properties.
+# chemical and physical properties and effective devices for quality determination of food.
+# the measurement techniques 
+-> integrating sphere, spatially resolve 
+-> frequency-domain
+-> time-resolved spectroscopes 
+# calculation algorithms  
+-> inverse adding double
+-> Monte Carlo
+-> diffuse approximation
+on obtaining absorption and scattering properties over the visible and near-infrard wavelength.
+
+# Abbrevations 
+-> AD = Adding double
+-> DA = Diffuse approximation
+-> DIS= Double integrating sphere
+-> DTOF= Distribution of time-of-flight
+-> FD = Frequency domain
+-> HI-SRS = Hyperspectral imaging-based spatially resolved spectroscopy
+-> IAD = Inverse adding double
+-> IS = Monte Carlo
+-> MI-SRS Monochromatic imaging-based spatially resolved spectroscopy
+-> NIR = Near-infrard
+-> RTE = Radiative transfer equation
+-> SIS = Single integrating sphere
+-> SNR = Signal-noise ratio
+-> SRS = Spatially resolved spectroscopy
+-> SFDI = Spatial frequency-domain imaging
+-> SFDI-SRS = Spatial frequency-domain imaging-based spatially resolved spectroscopy
+-> SR = Spatially resolved
+-> TR = Time-resolved
+-> TRS = Time-resolved spectroscopy
+-> Vis/NIR = Visible and near-infrard
+
+-> transparent (semitransparent or translucent)
+-> turbid (made up of complex biological components)
+
+-> light would change direction and undergo multi-scattering at each scattering event until it re-emerges from the materials or is absorbed
+-> multi-scattering occurs in them
+-> The ability of light to penetrate a turbid mateiral mainly depends on this absorption and scattering properties. (absorption and scattering are main interactions of light with turbid biological tissues)
+
+-> light absorption is mainly influenced by the chemical compositions of food.
+-> scattering is related  to the structural and physical properties, such as cell size and density
+-> unique chemical and structural properties determine  its unique absorption and scattering properties
+-> they are important information about the propacation of light in food.
+-> visible and near-infrared (Vis/NIR) spectroscopy has been proved having great potential in food detection on composition, safety and quality 
+
+-> the integrated influence of absorption and scattering events on obtained Vis/NIR spectra of tissue makes it hard to illustrate the chemical and physical properties from the meaningful information presented in obtained spectra, since obtained spectra may reflect a change in absorption, scattering, or both.
+# literature review
+-> Quantification on absorption and scattering properties is helpful to understand the chemical and physical properties of observed biological tissue, to know underlying mechanism that permit quality detection and light propagation in biological tissue., and to develop effective devices for quality determination of food. 
+
+## Techniques and algorithm
+-> measure absorption and scattering properties over Vis/NIR wave-length range mainly including integrating sphere (IS)
+-> spatially resolved (SR)
+-> frequency-domain (FD)
+-> time-resolved (TR) spectroscopes
+# these techniques allow the separation of absorption and scattering properties while conventional spectroscopic measurement cannot achieve this.
+# Algorithm
+-> calculating absorption and scattering properties usually include 
+-> inverse adding double (IAD)
+-> Monte Carlo (MC)
+-> diffuse approximation (DA)
+# the absorption coefficinets and scattering property can be estimated by means of TR, FD, SR through measuring the diffuse reflectance of the mateiral. 
+-> the absorption and scattering properties cab also be obtained by using IS and IAD.
+
+# Absorption and scattering properties.
+(Main optical parameters of food)
+
+## Absorption Property
+-> As light travel through the tisse, the intensity of light gradually weakens, which is called light abosorption.
+absorption coefficient μa
+probability that a photo is absorbed after being propagated per unit length.
+Follow the Lambert-Beer law
+-> when there is only absorption phenomenon, the absorbed light in the tissue can be expressed by Eq
+-> Owing to the molecule transition from ground state to high energy state level caused by anharmonic vibration, the absorption of light is related to the chemical composition of mediums.
+
+-> Pigments, (carotenoid, anthocyanin, and chlorophyll) are main light-absorbing groups in visible range.
+-> NIR range (Hydrogen bonds) have strong interaction with light.
+-> Carbohydrate and water are main NIR light-absorbing groups in food.
+-> Therefore, the informaiton of the substance such as compostions and their contents can be derived from the specturm of absoription, which is the basis of Vis/NIR spectroscopy as a nondestructive measurement technique.
+
+## Scattering Property
+-> Scattering of photons is a physical procedure greatly decided by wave characteristics of photons and structures of materials that they travel through, including particle size and shape and material's density.
+-> Light scattering has two forms.
+-> elastic and inelastic scattering.
+
+# elastic scattering
+-> no net energy exchange occurs to the photons, or the frequency of photons does not change after they have interacted with particles.
+# inelastic scattering
+-> after interplaying with atoms or molecules in the medium, those photons lose or gain energy and subsequently change the frequency.
+
+-> Optically homogeneous scattering materials, light scattering can be expressed by the Lambert-Beer Law.
+
+us is the scattering coefficient, describing the probability that a photo is scattered after being propagated per unit length.
+
+-> Be scattered by the particle, the photo is deviated from the original direction, and the photo is deviated from the original direction, and the deflection angle is thida.
+
+use the Henyey-Greenstein 
+anisotropy factor g is the cosine expection of thida.
+
+-> g = -1 total backward scattering
+-> g = 0 isotropic scattering
+-> g = 1 total forward scattering
+
+-> forward scattering is dominant
+-> since light scattering is associated with physical and structural properties of medium, it is oftern used to predict hardness of the medium.
+
+# Optical parameters
+
+-> Refractive index
+
+
+when a beam of incident light obliquely enters one medium from another, the direaction of propagation will change, that is light refraction.
+-> ratio of light propagation velocity in vacuum to a medium.
+
+according to refraction law or Snell's law the change of light direction is determined by refractive index as it passes from one medium to another.
+
+
+# Other optical parameters
+-> total attenuation coefficient (ut)
+-> reduced scattering coefficient (us')
+-> mean free path (mfp)
+-> effective attenuation coefficient (ueff)
+-> effective depth of penetration 
+-> albedo 
+
+# Measurement Techniques
+## Integrating Sphere
+-> The absorption and scattering properties of turbid food can be measured using either direct or indirect methods.
+-> IS can receive and reflect all incident light and it does not absorb any light, the brightness observed from any viewing angle is same. whatever the incident light irradiated to the interior surface are distributed.
+-> (SIS) Single
+-> 
+
+# Calculation Algorithms on Absorption and Scattering Properties.
+## Inverse Adding Doubling
+
+-> the addling double (AD) method is used to solve the radiative transport equation in a slab geometry for tissue optics.
+-> The AD method is extended in an inverse mannerto calculate the absorption and scattering properties of biological material.
+
+-> Monte-carlo method is high computational time 
+but IAD is faster and high accuracy.
+-> it has been confirmed to be accurate and fast method in measuring absorption and scattering properties of thin slab-shaped biological medium.
+
+->  the first step is measuring reflectance and transmittance of a sample by using IS technique.
+-> make a guess on the values of the optical parameters
+() 
+-> calculate the reflectance and transmittance of the sample
+-> compared with the supported data and recursive
+### Importanace notice
+-> the calculation results based on the AD method are influenced by light loss owing to scattering through glass slides on sample holder and boundary of a sample.
+-> To reduce the calculation error of IAD methods caused by light losss, the sample should be a flat slab and completely cover the port of the integrating sphere.
+-> Moreover, the diameter of the incident beam should be not only small but also much smaller than the diameters of the entranc and exit ports of the integrating sphere.
+
+# Monte Carlo 
+-> MC simulation is an extensive class of computational algorithms that depends on repeated random sampling to obtain numerical results.
+-> it mainly use numerical integration, optimization, and generating draws from probability distribution.
+-> MC is valid for a wide range of absorption and scattering cofficients and photon paths.
+-> It is usually used to simulate light propagation in turbid materials under assumption of uniform macroscopic optical properties over the ranges of ultraviolot, Vis/NIR light.
+-> MC has high accuracy and slow compuataional time.
+
+
+# Conclusion 
+In this study, some common optical parameter were introduced.
+
+# IS is a relatively easy to conduct but is invaive.
+# optimize equipment and simplify model for indirect methods and overcome the difficulty in handling thin samples for IS.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+

@@ -23,7 +23,7 @@ System name is Integrating sphere appratus
 measurement 
 
 
-IAD method 
+`
 sphere 
 850 nm
 
