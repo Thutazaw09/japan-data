@@ -1,0 +1,11 @@
+# Study of glycated human serum albumin in non-enzymatic glycation process based on MIR/NIR spectro
+
+# Problem statement
+-> Non-enzymatic glycation of human serum albumin (HSA) is implicated in diabetes 
+-> this complex process yields diverse products across various stages, yet traditional assays lack the capability to characterize early and intermediate glycation phases effectibely.
+-> Infrared spectroscopy, encompassing near-infrared (NIR) and mid-infrared (MIR) regions, offers into molecular vibrations and has gained traction in studying protein-molecule interactions.
+
+# in this study 
+-> Employ NIR and MIR spectroscopy to monitor the glycation of HSA induced by glucose over five weeks, establishing quantitative models for glycated HSA.
+-> a robust quantitative model, integrating NIR and MIR data, demonstrate high predictive accuracy and high reliability. -> This research not only elucidates HSA glycaiton levels but also pioneers a novel quantification methodology for glycated HSA.
+

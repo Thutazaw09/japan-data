@@ -1,0 +1,34 @@
+Non-invasive assessments of the advanced glycation end product in human skin using reflectance NIR spectroscopy
+
+-> AGE accumulation is know to cause alternations of structure and function in proteins and to be related with an increased risk of diabetic complications, cardiovascular diseases, and aging process.
+-> Conventionally, AGE accumulation has been estimated by measuring auto fluorescence level using ultraviolet (UV) light excitation.
+-> in this study, the alternative approach to estimate auto fluorescence level and thus AGE accumulation in vivo human skin using NIR (near-infrared) spectroscopy.
+
+# Process 
+-> the examine spectral feacture attributed to glycation in proteins, we first analyzed in vitro NIR spectra from native and glycated protein.
+-> the examine spectra of in vivo skin from human subjects, and estimated thier auto fluorescence level using several multivariate regression approaches.
+# Result 
+-> Our analysis in vitro speactra from native to glycated albumin revealed that glycation may affect -CH and -NH stretching.
+-> We elucidated (make clear, explain) that those bands for -CH and -NH may be responsible for the variation in auto fluorescence level in human skin NIR spectra. 
+-> Finally, auto fluorescence level was estimated from those NIR spectra using several multivariate regression methods:
+# component regression (PCR)
+# partical least square regression (PLS-R)
+# support vector regression (SVR) (showed best performance)
+
+# Conclusion 
+-> we demonstrated in this study that NIR spectroscopy can be used as an alternative non-invasive method to estimate AGE accumulation in the in vivo human skin tissue without UV radiation on skin tissue.
+
+################################
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,6 @@
+# Fluorescent AGEs detected by spectro-photofluorimetry
+
+-> Advanced glycation end-products (AGEs) are of the mechanisms related to diabetic vascular complications.
+-> AGEs are multiple and heterogeneous moieties, there is no universally accepted method to measure them for for clinical purposes.
+-> The aim of this work was to study the utility of a simple fluorimetric assay as predictor of complications.
+-> 

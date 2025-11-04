@@ -1,0 +1,76 @@
+# Advanced Glycation End Product (AGE): Characterization of the products from the reaction between D-Glucose and Serum Albumin.
+
+-> incubated bovin serum albumin with glucose in an attempt to study how the advanced glycation end products (AGES) are found and what methods can be used for their identification and isolation 
+-> Based on the measurement of AGE-associated fluorescence 
+(excitation: 370 nm and emission: 440 nm) -> found that age could be detected as early as after 3-days incubation.
+-> The fluorescence was always associated with the larger molecules of cross-linking product resulting from the reaction between BSA and glucose.
+-> overall fluorescene intensity increased with incubation time and fluorescence of the highest intensity was found with the AGE product largest in size.
+-> AGE molecules are not only larger in size but also have lower isoelectirc points and carry more negative charges.
+-> Amadori products of hemoglobin and albumin are routinely measured in clinical laboratories for determining glycemic control in patients with diabetes.
+-> These products will undergo further rearrangement to produce a heterogeneous group of polymers called
+advance glycation end-products or AGEs.
+-> the ability of AGE to cross-link with other proteins.
+-> the molecular size of AGEs are much larger than the parent proteins and are heterogeneous in size and composition.
+
+###
+-> The formation of AGE can also be detected by its characteristic fluorescence spectrum (excitation 370 nm, and emission, 440 nm) (yello-brown color)
+
+-> AGE play an important role in the structural and functional alteration of proteins during aging and long-term diabetes. 
+
+-> When proteins with long half-lives, such as collagen, crytallins, elastin, and myelin are involved with AGE formation, they will continue to cross-link with other proteins and lead to many aging and diabetes associated dysfunctions and complications.
+
+# Diabetes 
+-> Persistent accumulation of circulating proteins by AGE-collagen, such as serum albumin, may contribute to the characteristic thickening of diabetic basement membranes (AGEs).
+
+# Alzhemier's disease
+-> A higher concentration of AGE adducts was actually found in plaque fractions of Alzheimer's disease (AD) brains.
+-> The stability of plaques and tangles and their high content of lysine in AD make them ideal candidates for glycation.
+
+# Prevention
+-> Because the formation of AGEs from the Amadori product can proceed in the absence of glucose, an imporvement of glycemic control alone may not be sufficent to prevent the continued progression of this pathologic process.
+-> An assay for AGE could be used to identify elderly patients and patients with diabetes who may be at risk for developing AGE associated clinical complications
+
+-> The AGE assay could also be used to monitor the success of therapy and is a useful tool for identifying medications better than aminoguanidine.
+
+# Objective
+ 
+-> In the present study our objective was to identify and isolate AGEs for the preparation of anit-AGE antibodies, standard, calibrators, and controls to be used in the development of an immunoassay for AGE.
+
+-> incubated BSA with glucose and followed the reaction with affinity chromatography and a fructosamine assay and monitored AGE-associated fluorescence for the formation of Amadori product and eventually the AGEs.
+
+# Fluorescence Measurement
+-> the fluorescence of the incubatino mixture an column eluates was measured on a fluorescence spectrometer. 
+
+-> the measured values are 370 nm for the excitation and 440 nm for the emission.
+
+# Chromatography
+-> the technique to separate the mixture into its individual components by passing though a material called a stationary phase and by passing through a liquid called mobile phase
+-> The amount of glycated BSA formed during incubation at various time intervals was determined by boronated gel affinity chromatography following the kit instruction.
+
+# Fructosamine assay
+-> the testing of the meatal or ore to determine the ingridient and quality.
+
+
+# Change of Fluorescence, Fructosamine and Glycated albumin over time
+-> Because anit-AGEs are not available, AGE-associated fluorescence (excitation wavelength and emission wavelength) was used to identify AGEs.
+-> since the control (BSA incubated in the absence of glucose) was incubated at the same time under identical conditions as the sample, any difference observed between the sample and the control was also used as an indication of AGE formation.
+
+-> one could detect an increase of the fluorescence intensity over time. Practically no AGE-associated fluorescence was observed for the BSA solution incubated in the absence of glucose.
+
+-> the presence of glucose fluorescence was detectable after only a few days of incubation indicating that AGE-BSA aggregate apparently formed much earlier than we expected.
+-> As soon as Amadori product is formed. AGEs become detectable.
+-> Based on the measurement of AGE-associated fluorescence, the rate of AGEs formation almost parallel the formation of glycated BSA. On the other hand, no Amadori product or AGEs were formed in the absence of glucose.
+
+# Discussion
+-> it appears that AGEs can be detected in the first few days in a mixture contatining BSA and an excess amount of glucose as soon as the Amadori product or glycated BSA is available.
+
+
+
+
+
+
+
+
+
+
+

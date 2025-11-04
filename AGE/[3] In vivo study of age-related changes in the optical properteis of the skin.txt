@@ -1,0 +1,67 @@
+# In vivo study of age-related changes in the optical properteis of the skin
+
+-> The optical properteis of the skin (absorption coefficient, scattering coefficient and refractive index) may serve to characteriz the skin and are important for correct light dosimetry in many optical diagnostic procedures and laser treatments especially photodynamic therapy and laser threpy
+-> determine the in vivo optical properties of tissues near the waist, elbow and knee in subjects of different ages using diffsue reflectance spectroscopy, having in view of the establishment of laser system types for the laser treatment of different ages.
+  
+# Result
+-> Diffuse relfection of light from biological tissue is due to the variation in refractive index of tissular and cellular components and the surrounding medium and depends on the wavelength of the incident optical radiation.
+
+-> the diffuse reflectance spectrum of the tissues tested showed two maxima localized at 610 nm and 675 nm.
+-> laser system with emit radiation at these wavelength are not efficient for the treatment of joints, regardless of the subject's age.
+-> The deep tissues have a strong absorption in the range of 630 nm to 700 nm, which indicates that for treating posttraumatic lesions, we can use laser system such as the He-Ne laser, the GaAIAs laser and the InGaAIAs laser.
+
+-> the optical parameters n(w) and k(w) were determined.
+-> the age-dependent changes in parameters of tissue must be taken into consideration and the use of laser treatments or optical diagnosis methods must be based on a knowledge of these properties and of the optical radiation parameters.
+
+-> The optical properties of biological media can give useful and critical information about chromophoeres and the physiological functions and structure of different biological media.
+-> any changes -> change in optical properties -> optical parameters.
+
+# Importance of studying the optical properties.
+-> the potential for using light as a noninvasive diagnostic and therapeutic tool in various biomedical applications.
+# the optical properties of biological tissues are described by several optical parameters
+-> absorption coefficient 
+-> scattering coefficient
+-> the anisotropy factor
+-> total attenuation coefficient
+-> the mean free path
+
+-> These parameter can be calculated from the absorbance, transmittance or diffuse reflectance measurements of optical radiation, based on models of the propagation of optical radiation through biological media.
+-> The diffuse reflectance of light by biological tissues is determined by the absorption and scattering properties of the tissues, which are related to their chemical structure and compostion.
+
+# The main absorber of the skin are blood, keratin, melanosomes
+# The scattering particles in the skin consist of lipids and proteins (keratin, melanin, collagen, elastic fibers) in the fluids and between skin cells.
+
+# Stronger absorption leads to weaker diffuse reflecatnce and greater scattering leads to wider diffuse reflectance.
+
+# What will study
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

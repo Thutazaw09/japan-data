@@ -1,0 +1,7 @@
+# Measurement of optical tissue properties using integrating sphere technique
+
+-> The optical properties of white matter human brain, canine prostate and pig liver were measured in the wavelength range 330-1100 nm.
+-> used double integrating sphere to provide reflection and transmission measurements and a special homogenising techniquie to prepare the tissue.
+-> optical properties are evaluated using inverse Monte-carlo simulation
+
+-> 
