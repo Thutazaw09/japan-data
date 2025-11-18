@@ -1,0 +1,3 @@
+Measure the viscous damping coefficient of something moving. Conduct a mini-experiment at the lowest possible cost. Verify that you actually measured the viscous damping, not friction.
+
+Note: Please show not only the experimental results, but also the idea (how to measure), measurement theory, theoretical resolution, accuracy, cost, evaluation/discussion etc.

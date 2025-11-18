@@ -1,0 +1,94 @@
+# The general idea of the IDA
+
+-> Perform the careful measurements (Total reflection and transmission)
+-> The data are fed into the system. (will the the intrinsic optical parameters for the sample)
+-> The program repeately guessing the optical properties and comparing the expected observavbles with those that measured.
+-> upon matching, those optical properties used to genearte the expected obserables are the ones that characterize your sample.
+-> 
+
+# # introduction
+-> Inverse adding-doubling is a method for generating the optical properties of scattering and absorbing materials. 
+-> Reflection and transmission measurements (typically made with an integrating sphere) are converted to the optical properties of the sample (scattering, absorption, and anisotropy) using the computer
+program iad. 
+-> The iad has been extensively tested and validated for accuracy
+and precision;
+
+-> How to use the program
+-> experimental measurements of reflectance and transmittance are stored in "data.txt" and use "ida data" to process the file
+-> will give back (scattering, absorption, and anisotropy coefficients)
+
+-> MR -> measured total reflectance 
+-> MT -> measured total transmittance
+-> MU -> unscattered transmittance value
+
+-> The processed output file contains a summayr of the experimental conditions as well as all the calculated optical properties.
+
+
+# Assumptionsa and limitation
+-> The adding doubling method is used to calculate reflectacne and transmittance.
+-> the adding doubling method is an accurate solution for the radiative transport equation for 
+-> all albedoes
+-> all optical depths.
+-> all phase functions
+-> This method can be applied for which radiative transport equation is valid.
+# limitation
+-> distribution of light is depenednet of time.
+-> samples have homogeneous optical properties.
+-> tissue geometry is an infinite plane-parallel slab.
+-> boundaries are smooth.
+-> internal reflectance is governed by Fresnel's law.
+-> polarizatoin effects may be ignored.
+
+-> works for any combination of optical properties.
+-> takes into account all the interactions of a sample sandwitch between glass slides.
+-> incorporates the effects of the integrating spheres on the measured values.
+-> accounts for the lost light (light that is not collected by the spheres)
+-> has a reasonable trade-off between accuracy and speed.
+
+# diffusion model can generate negative reflectances for samples with large anisotropies.
+
+-> # left 2 sections of introduction
+
+
+# commands 
+-> iad -v (for checking the verison)
+-> iad data (for processing)
+-> 
+
+# for validation 
+-> valid.bat in test 
+
+# Experimental Decision
+-> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

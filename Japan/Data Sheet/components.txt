@@ -1,1 +1,3 @@
-thorlab sm 05 series
+c6386-01 Hamamatsu 
+ask about interfacing via usb or something
+ask about sma connector size

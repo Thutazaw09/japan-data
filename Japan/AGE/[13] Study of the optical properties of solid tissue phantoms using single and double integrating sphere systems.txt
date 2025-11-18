@@ -1,0 +1,53 @@
+# Study of the optical properties of solid tissue phantoms using the single and double integrating sphere systems
+
+-> Tissue phantoms properties, namely absorption and scattering coefficients which characterize light propagation mechanisms inside the tissues.
+
+-> Integrating sphere measurement results were fed into the calibration models using the multiple polynomial regression method and Newton-Raphson algorithm. using third order polynomials.
+-> Two solid phantoms properties of titanium oxide as a scatterer and black carbon as an absorber has been discussed. (both showed obserable effects on the absorption and scattering of light insdie the solid tissue phantoms.)
+
+### 
+Tissue Phantoms detailed are mentioned 
+###
+-> Used solid phantoms have been good alternatives of short-lived liquid standards.
+-> The main idea in choosing suitable phantom components is to match the natural biological behavior in reacting with light, which can be tested spectroscopically.
+
+
+-> In, the present work soild tissue phantoms have been used. This type of phantoms is interesting for spectrosocopy and optical imaging studies through turbid media, imporving the determination of optical properties of tissues studies, beam propagation mdoeling in skin tissue, biomedical optics and calibraiton prupores.
+
+# One sphere
+-> considering the light beam propagation direciton, entrance and exit prots os a single integrating sphere can be used as sample positions for measuring transmittance and reflectance, respective.
+
+-> In order to take the measurements of transmittance and reflecatnce simutaneously, a system called double integrating sphere can be used especially when it is important to observe the measurements during a continuous heating, chemical reactions, or applying an electric filed. Double integraing sphere setup is supposed to reduce error causes and measurement uncertainties.
+
+-> To calculate the scattering coefficient and anisotropy factor, the value of  colliamted (non-diffused) transmittance is required in addition to reflection and diffuse transmission,
+-> absorpiton coefficient and reduced scattering coefficient (which is directly proportional to the scattering coefficient with a factor of (1-anisotorpy)) can be determined from measurements of diffuse reflectance, diffuse transmittance, and total transmittance.
+-> valitated using the single sphere for the double sphere results and used advanced systems analysis program (ASAP)
+
+-> compare for absorption coefficient and reduced scattering coefficient
+
+-> 600 micrometer core-diameter fiber coupled USB4000 Ocean Optics USA
+
+# Conclusion 
+
+-> Single and double integrating sphere systems have been used successfully for transmittance and reflectance measurements of the prepared solid tissue phantoms. And measurement results have been fed to different calibration models.
+
+-> Optical properties of 632.8 nm wavelength have been obtained using the multiple polynomial regression method and the Newton-Raphson algorithm.
+-> The three different factors that have been studied for the solid phantoms as tissue simulators were: Titanimum dixode effect as a scatter, black carbond as an abosrber and the phantom thickness.
+
+-> Calibraion systems showed good agreement with each other, especially for absorption coefficient.
+-> Absorption coefficient as well as the reduced scattering coefficient showed good stability with thickness change for all phantoms.
+
+
+-> titanium dioxide has clear effect on light propagation inside the phantoms as appeared in magnified beam images.
+-> The spread of the beam inside the phantom raises the probability for a photon to meet an absorbing particle and therefore absorption coefficient increase.
+-> The presence of titanium dioxide leads to high backward scattering.
+-> For tissue simulation, backward and forward scattering must be simulated. Therefore, it may be better for the tissue simulator phantoms to contain many scattering particles types beside titanium dioxide to simulate forward scattering.
+-> Black carbon powder has a resonable effect on decreasing the transmittance, and therefore an obvious increase in the absorption coefficient has been shown.
+-> even reflecatance and reduced scattering coefficient increase with more carbon.
+
+
+
+
+
+
+
