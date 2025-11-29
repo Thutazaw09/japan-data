@@ -1,29 +1,174 @@
-# Determining of the optical properties of turbid media by using the adding-doubling method
+(companion paper 1)
+(adding-doubling 24)
+#######
+Restart
+#######
 
--> A method for finding the optical properties 
-(Scattering, absorption and scattering anisotropy) of a slab of turbid material by using 
+-> a method for describing the optical properties (scatterig, absorption, scattering anisotropy) of a slab of turbid material by using 
 # total reflection
-# unscattered transmission 
-# total transmission
-# albedo
-# phase function
+# unscattered transmission
+# total transmission measurement
+
+# can be able to apply to homogeneous turbid slabs with any optical thickness, albedo, or phase function.
 
 -> The slab may have a different index of refraction from its surroundings and may or may not be bounded by glass.
--> The optical propreties are obtained by iterating an
-adding-doubling solution of the radiative transport equation until the calculated values of the reflection and transmission match the measured ones.
--> Exhaustive numerical tests show that the intrinsic error in the method is <3% when four quadrature points are used.
-
-# This paper introduces a practical way to determine the optical properties of scattering and absorbing matierals.
--> These properties are obtained by repeatedly solving the radiative transport equation until the solution matches the measured reflection and transmission values.
--> The advantages over existing methods are increased accuracy and flexibility in modeling turbid samples with intermediate albedos, mis-match boundary conditions, and anisotropic scattering.
--> Inverse implies a reversal of the usual process of calculating reflection and transmisson from optical properties and adding-doubling indicates the method used to solve the radiative transport equation
-
-# Literature review
--> optical properties of biological tissue are important for photodynamic therapy and diagnostic techniques.
--> Typically the optical properties are obtained by using solutions of the radiative transport equation that express the optical properties in terms of readily measurable quantities.
--> These solutions are either exact or approximate and correspond to the direct or indirect methods 
 
 
+## Procedure
+
+-> The optical properties are obtained by iterating an adding-doubling solution of the radiative transport equation until the calculated values of reflectiong and transmission match the measured ones.
+
+# intrinsic error in the method is <3% when four quadrature points are used.
+
+-> The advantages over existing methods are increased accuracy and flexibility in modelings turbid smaples with intermediate albedos, mismatched boundary conditions, and anisotropic scattering. 
+# the disadvantages is that this method is entirely numerical.
+
+-> invesre implies a reversal of the usual process of calculating reflection and transmission from optical properties and adding-doubling indicates indicates the method used to solve the radiative transport equation.
+
+
+-> The optical properties are obtained by using the solutions of the radiative transport equation that express the optical properties in terms of readily measurable quantities. 
+
+-> these solutions are either exact or approximate and correspond to the direct or indirect methods described.
+
+-> the theory used in indirect methods usually falls into one of three categories : Beer's law, Kubelka-Munk, or the diffusion approximation.
+
+-> the adding-doubling method is a general, numerical solution of the radiative transport equation.
+-> the adding-doubling method was chosen because it is sufficiently fast that iterated solution are possible on current microcomputers and sufficiently flexible that anisotropic scattering and internal reflection at the boundaries may be included.
+
+-> other accurate solutions of the radiative transport equation such as X and Y functions, discrete ordinates, Monte Carlo models, invariant embedding or successive orders are too slow or insufficiently flexible to incorpoerate the necessary boundary conditions needed for turbid materials with mismatched boundaries.
+
+# Process of IAD
+
+-> Guess a set of optical properties
+-> Calculate the reflection and transmission by using the adding-doubling method
+-> compare the calculated values with the measured reflection and transmissions
+-> repeat until a match is made.
+-> the set of optical properties that generates reflection and transmission values matching the measured values is taken as the optical properteis of the sample.
+
+-> the result obtained with the IAD method are accurate for all optical properties and can be made arbitrarily precise at the cost of increased computation time.
+-> it is possible to incorporate the necesary corrections for measurement made directly with integrating spheres.
+such corrections are quite awkward to impleemnt because the magnitude of the correction depends on the optical properties of the sample used.
+
+# Adding-doubling method
+
+-> the optical properties of a turbid medium are characterized by the absorption coefficient ua, the scattering coefficient us and the single-scattering phase function p(thida).
+
+-> the reciprocal of the absorption (scattering) coefficient is the average distane a photon with travel before being absorbed (scattered) by the medium.
+
+-> light propagation in a turbid medium are the albedo and the optical thickness.
+
+-> phase function p(cosThida)
+
+-> Refleciton and transmission are relative to the normal irradiance onm the sample surface and vary between zero and one.
+-> the total reflection RT is all light specularly reflected and backscattered by the sample.
+-> the total transmission TT is all the lgith that passes through the sample and includes any light travelling through the sample without being scattered.
+-> this unscattered light is denoted TC, because for collimated irradiance on a sample the light passing directly through the sample is often called collimated transmission.
+
+# the advantages of the adding-doubling method are that only integrations over angle are requried, 
+-> the physical interpretation of results can be made at each step,
+-> the method is equivalent for isotropic and anisotropic scattering, results are obtained for all angles of incidence used in the integrations. 
+# the disadvantages are 
+-> it is slow and awkward for calculating internal fluences
+-> it is suited to a layered geometry with uniform irradiation 
+-> it is necessary that each layer have homogeneous optical properties.
+
+# since determining optical properties using only reflection and transmission, internal fluences are not needed, (a) is good 
+-> disadvantages (b) and (c) place restrictions on the sample geometry 
+-> the samples must be uniformly illuminated
+-> homogeneous slabs
+
+-> the addling-doubling mehtod is well suited to iterative problems because it provides accurate total reflection and transmission calculations with relatively few quadrature points. 
+ 
+# Assumption
+
+->  in all calculations, the following assumptions are made.
+
+-> the distribution of light is independent of time, 
+-> samples have homogeneous optical properties
+-> the sample geometry is an infinite plance-parallel slab of finite thickness
+-> the tissue has a uniform index of refraction 
+-> internal reflection at boundaries is governed by Fresenel's law
+-> the light is unplorized.
+
+-> a nonabosorbing layer with a different index of refraction may be present at the boundaries.
+
+
+-> the doubling method assumes that the reflection R and transmission T for light incident at an angle v and angle v' is known for one layer.
+-> the reflection and transmission of a slab that is as twice as thick is found by juxtaposing two identical slabs and adding the reflection and transmission contributions from each slab.
+-> the reflection and transmission for an arbitrary slab are calculated first by finding the refleciont and transmission for a thin starting slab with  the same optical properties and then by doubling until the desired thickness is reached.
+
+-> the addng method extend the doubling method to dissimilar slabs.
+-> Thus slabs with different optical properties can be placed adjacent to one another to simulate layered media or internal reflection caused by index-of-refraction differences.
+
+# internal reflection and boundary conditions
+
+-> Internal reflection at the boundaries (caused by mismatched indices of refraction) was  included in the calculation by adding an additional layer for each mismatched boundary.
+
+-> the reflection and transmission of this layer equaled the Fresnel reflection and transmission for unploarized light incident on a plane boundary between two transparent media with the same indices of refraciton.
+
+
+
+
+
+# Iteration process
+
+-> the iteration process consists of finding optical properties that generate the measured reflection and transmission values.
+-> this section begins by showing that a unique solution to the inverse problem exists, and then the simplifications that are necessary when one or more of the experimental measurements is missing are described.
+-> three components of iteration process are given
+-> (1) the function that defines the distance the calculated values are from the measure values
+-> (2) the initial set of optical properties guessed
+->  the algorithm used to minimize this function
+
+
+-> the iteration method implicitly assumes that a unique combination of the albedo, the optical depth and the anisotropy is determined by a set of reflection and transmission measurements
+
+-> a unique set of optical properties (a,T,g) exists for any set of measurements (RT,TT,TC). 
+
+-> for example increasing the albedo of a sample will increase its total reflection and decerease its total transmission, but so will increasing the optical thickness of the sample.
+-> 
+
+
+
+
+
+# Inverse method
+
+-> the iteration method uses N-dimensional minimization algorithm based on the downhill simplex method.
+
+-> since anisotropy, albedo, and optical depth have fixed ranges, they are transformed into a computation space.
+-> transformation functin for the albedo is 
+a(comp) = (2a-1)/a(1-a)
+-> a(comp) varies from -infinity to infinity
+-> albedo a varies from 0 to 1
+
+the anisotropy g whcih varies from (-1 to 1) is
+
+g(comp) = (g)/(1+|g|)
+
+-> the transformation for the optical thickness T(which varies from 0 to infinity) is
+
+b(comp) = ln(T)
+
+-> we can easily invert these relations to obtain relations for the optical properties in terms of the computation values.
+-> We made all calculations by using the real values:
+-> the transformed values were used only by the simplex mehtod for choosing the next iteration point.
+-> Typical convergence was in 20-30 iterations.
+
+# initial values
+-> the starting set of optical properties affects both the rapidly of the convergence and the convergence to the correct values.
+-> clearly, with a better first guess, fewer subsequent iterations are needed.
+-> poor guesses have the added disadvantages that the minimization algorithm may converge to a relative rather than the global minimum.
+-> since the global minimum corresponds to the the uniques solution described above, local minima must be guarded against.
+-> fortunately they are easily detected by examining the magnitudes of the minimum.
+-> if the magnitude exceeds a small tolerance, the minimum is a local one and the iteration process must be restarted with a better initial guess.
+-> an initial set of approximately correct optical properties for any reflection and transmission combination is difficult
+
+-> can use similarity relations to facilitate picking starting values by relations (a,T,g) to the reduced optical properties (a',T',g' = 0)
+
+-> need to use similarity relations are used in the IAD method
+
+-> the total transmission and reflection are usually measured with integrating spheres.
+-> Interaction between the sample and sphere makes the detected signal no longer proportional to the sample reflection or transmission.
 
 
 
@@ -33,6 +178,51 @@ adding-doubling solution of the radiative transport equation until the calculate
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
 
 
 
