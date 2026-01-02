@@ -1,0 +1,9 @@
+# A monte carlo estimation of tissue optical properties for use in laser dosmietry 
+
+-> the propagation of light in tissues is influenced by fundamental or microscopic optical properties.
+
+-> the method used in this work provides graphical and in simple cases analytical 'inverse' solutions to determine tissue microscopic properties from measured parameters.
+-> Used the graph for calculation
+
+-> Direct techniques are based on measurements in tissue samples thin enough that single-photon scattering occurs.
+-> Indirect techniques are based on measurements in bulk tissues of diffuse transmittance and reflectance.

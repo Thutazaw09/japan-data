@@ -1,0 +1,80 @@
+# Prediction of tissue optical properties using the Monte Carlo modeling of phanton transport in turbid media and integrating sphere.
+
+-> This work presents an extension to existing Monte Carlo photon transport methods to simulate integrating sphere experiments.
+
+-> one sphere and dual-spheres method are included.
+-> Validated by analytical models, previous works on Monte Carlo photon transport, and experimental measurements of a synthetic tissue phantom
+
+-> Used two approach for back-calculated the optical properties of samples.(experimental and simulation uncertainties are propagated through both methods)
+
+-> Both methods can find the optical properties of the samples accurately and precisely
+
+-> Monte Carlo photon transport is a common predictive model to calculate reflectance and transmittance of tissue samples based on their optical coefficients.
+-> Determining the optical coefficients from reflectance and tranmittance measurements is an inverse problem, solved by a lookup table or multivariable minimization
+
+-> Determining the optical coefficients from reflectance and transmittance measurements is an inverse problem, solved by a lookup table or multivariable minimization.
+
+-> Reflectance and transmittane depend on the optical properties of the tissue sample as well as the geometry of the measurement configuration.
+-> Problem (the presence of an integrating sphere introduces the possibility that a photon exists the sample, reflects within the integrating sphere and is then re-incident on the sample) . These interactions cause some photons which should have been measured as reflectance to interact with the sample againg the instead be measured as transmittance and similarly, initially transmitted photons may instead be measured as refleacted.
+
+-> Traditional monte carlo photon transport methods estimate the total reflectance and transmittance but do not account for the geometry of the measurement configuration. especially for integrating sphere.
+-> simulation geometry must correspond to the measurement geometry
+
+-> that values can often differ by 20% or more depending on the measurement configuration and sample optical properties. and in general the presence of an integrating sphere reduces the measured transmittance.
+
+
+-> (in this work we introduce an extension to the existing Monte Carlo transport methods to simulate the propagation of photons in an integrating sphere)
+
+-> This existing theory requires the calculation of the reflectance and transmittance for multiple illuminations, whereas our method only requires a single simulation with the desired illumination to find the reflectance and transmittance when integrating sphere are present. 
+-> Integrating sphere Monte Carlo (ISMC)
+
+-> Propagating the experimental uncertainties from the integrating sphere measurements and statistical uncertainties from the Monte Carlo method requires additon Monte Carlo simulation on the inverse solver. 
+
+# Detail of the measurement using the integrating spheres are includeds
+# Integrating sphere measurement 
+-> R(p,q) to be the power measured by the detector on the sphere for a sample with reflectance, p, for normally incident light, and reflectance, q, for diffuse incident light. (Two reflectace type)
+-> T(p,q) (p,q are still represent the values of reflectance)
+
+-> R(0,0) -> the measured reflected power of the empty integrating sphere.
+-> rstd -> the reflectance of a reflectance standard.
+-> R(rsdirest,rs) -> the measured reflected power of the sample
+-> R(rtd,rstd) -> the measured reflected power of the reflectance standard.
+
+-> the reflectance standard is provided by the manufactureer. 
+-> the one with the slightly higher reflectance than the sample should be chosen.
+
+
+# Method 
+-> In typical monte carlo photon transport method, the sample properties, beam properties, and the number of photons are defined prior to simulation.
+-> the theory require inclusion or exclusion of each sphere and the relevant properties of any included sphere 
+-> pw -> the reflectance of the sphere's inner wall 
+-> fs -> the fractional area of the sample port, or source port in the case of a sphere measuring transmittance, to the inner surface area of the entire integrating sphere.
+-> fp -> the fractional area of the source port, or optional port in the case of a sphere measruing transmittance, to the inner surface area of the entire integrating sphere.
+-> fd -> the fractional area of the detector to the inner surface area of the entire integrating sphere
+-> f -> the total fractional area of all open ports and the detector
+
+-> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

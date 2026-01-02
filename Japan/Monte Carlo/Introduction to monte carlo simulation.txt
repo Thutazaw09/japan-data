@@ -1,0 +1,53 @@
+-> monte carlo simulation uses random samping and statistical modeling to estimate mathematical functions and mimic the operations of complex systems. 
+
+-> used to sample from random distributions, including uniform distribution, exponential, normal and Posson distributions
+
+-> Monte Carlo simulation, essentially, a series of coin flips, is used to explore these areas and many more. 
+
+# Monte Carlo methods 
+
+-> There is no single Monte Carlo Method
+-> any attempt to define one will inevitably leave out valid examples - but many simulations follow this pattern.
+-> model a system as a (series of) probability density functions (PDFs).
+-> repeatedly sample from the PDFs.
+-> tally/compute the statistics of interest.
+
+The model
+
+-> Buffon's Needle (The model is based on a proof that shows the probability of the needle intersecting a line)
+-> To model the system, one needs probability density functions for random position in the lined space and random angles for the needle. 
+-> (position and angle)
+
+-> Key points to consider in defining a model are:
+-> what are our desired outputs?
+-> whaht will these outputs be used for?
+-> how accurate/ precise must the outputs be?
+-> how exactly can/must we model?
+-> how exactly can/must we define the inputs?
+-> how do we model the underlying processes?
+
+
+-> (outputs) (processing power) (inputs) (how to process the inputs to generate outputs)
+
+-> monte carlo simulation always involves an element of randomness, often at many points in the model.
+
+-> Probability density functions (PDFs)
+-> functions that define the range of possibilities and the relative probabiltiy of those possibilities for a given step in the simulation.
+-> (non-negative real-valued function) (its integral over its range must be 1)
+-> For sampling purposes we often use the cumulative distribution function (CDF), which is defined as an integral of the PDF, for the uniform distribution.
+-> the CDF tells us the probability that a number sampled randomly from the PDF will be <= x. 
+
+-> a pseudo-random number generator, (RNG), is a deterministic computer algorithm that produces a series of numbers that sharees many of the characteristics of true random samples.
+
+-> 
+
+
+
+
+
+
+
+
+
+
+

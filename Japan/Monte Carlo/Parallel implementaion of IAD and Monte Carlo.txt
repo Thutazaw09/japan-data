@@ -1,0 +1,7 @@
+# 	
+
+-> Message passing interface and standard C-language
+
+-> Parallel version of IAD and MCML programs were compared to their sequential counterparts in validation and performance tests. 
+
+-> 
