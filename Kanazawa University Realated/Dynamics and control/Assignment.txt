@@ -1,7 +1,0 @@
-The theme of the report is "Vibration of a swing (Buranko)"
-
-(1) Show the equation of motion about a swing.
-(2) Solve the equation of motion "numerically" on a computer (Excel or some programming) and draw some graphs of the vibration waveform.
-(3) Investigate how the vibratin changes depending on how to swing on the swing (Change the function of swing motion).
-
-Note: Please show not only the results, but also the calculation method, program, discusson etc.
