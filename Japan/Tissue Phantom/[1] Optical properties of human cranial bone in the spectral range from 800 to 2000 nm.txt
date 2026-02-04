@@ -1,0 +1,58 @@
+# Introduction
+-> the optical properties of human cranial bones were measured in the wavelength range 800-2000 nm by using the integrating sphere + spectrophotometer and inverse-adding-doubling method to calculate us and ua.
+# Material and methods
+-> carried out with 10 bones samples
+(7 male and 3 female 16-70) 
+(parietal, temporal and temporoparietal bones)
+->  anisotorpy factor is 0.9 (typical for the tissue)
+# Adavantages of IAD paper 23 [Phal 1993 paper]
+-> The main advantages of the IAD method in comparison with many other methods of solution of the RTE is connected with {its validation for the arbitrary ratio of the absorption and scattering coefficients.}
+-> The property of the IAD method becomes essentially important in the case of determination of the optical properties of tissues within strong absorption bands, when the values of the absorption and scattering coefficients become comparable. 
+ 
+-> (The main limitation of IAD method is possible loss of light scattering radiation through lateral sides of a sample at calculations)
+
+-> Calcuated the lateral light loss propagation distance by sing the absorption and sacttering coefficinets of the bone tissue.
+-> (maximum 0.65 mm at wavelength 1290 mm)
+-> the area of tissue sample has to be smaller than the area of the inner surface of the integrating sphere.
+
+# The tissue optical properties was performed for each wavelength point.
+-> the algorithm consists of the following steps
+-> (IAD method)
+
+# Results
+-> standard deviation in the range of the absorption bands is connected with differences in the water content for different bone samples.
+-> insignificant differences between these data can be explained by differences in the used measuring techniques and the tissue samples preparatioon and storage methods.
+    
+
+
+-> in the spectral range 600-1500 nm, many tissue reduced scattering coefficient decreases with the wavelength in accordance with a power law. 
+
+-> te vale is indication of a slowly descending spectrum that is due to scatterers of large effective size. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

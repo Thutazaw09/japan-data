@@ -1,0 +1,69 @@
+# Optical properties on bone analysis: An approach to biomaterial
+-> (wavelength of 700-1000 nm)(NIR) 
+-> (Chicken femoral samples)
+
+-> Integrating sphere + inverse Adding-Doubling Method
+
+-> the objective of this reserach is how dematerialization affects the optical properties of bone. (mineral loss, osteoporosis-like-condition)
+
+-> significant difference in the optical properties between healthy and demineralized samples
+
+-> Comparative results between optical properties of healthy chicken bone and demineralized samples wered investigated.
+
+# Method and materials 
+# Regions analyzed 
+-> Compact (cortical) bone
+-> Trabecular (spongy) bone
+-> sample size 5x5 mm, ~3 mm thickness
+
+# Demineralization 
+-> used solution of 20% w/v citric acid
+-> used to simulate the mineral loss by removing hydroxyapatite.
+-> hyroxyapatite is the main chromophore in bone.
+-> # loss in mineral content 
+-> decreases scatterer density
+-> alters refractive index contrast
+-> shift us and ua spectra measurably
+
+# The scattering and absorption pattern were qualitatively distinguishable in the samples due to coefficient shifts. Scattering coefficient alters in according refraction index and scatterer's density in the tissue at specific wavelength.
+
+-> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
