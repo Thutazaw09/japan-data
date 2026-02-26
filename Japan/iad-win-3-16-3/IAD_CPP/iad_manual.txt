@@ -1,0 +1,148 @@
+PS C:\Users\LUCUS\Desktop\japan-data\Japan\iad-win-3-16-3> ./iad -h
+iad 3-16-3 (15 May 2024)
+
+iad finds optical properties from measurements
+
+Usage:  iad [options] input
+
+Options:
+  -1 '# # # # #'   reflection sphere parameters 
+                   'd_sphere d d_sample_port d_entrance_port d_detector_port r_wall'
+  -2 '# # # # #'   transmission sphere parameters
+                   'd_sphere d d_sample_port d_third_port d_detector_port r_wall'
+  -a #             use this albedo 
+  -A #             use this absorption coefficient
+  -b #             use this optical thickness 
+  -B #             beam diameter
+  -c #             fraction of unscattered refl in MR
+  -C #             fraction of unscattered trans in MT
+  -d #             thickness of sample
+  -D #             thickness of slide 
+  -e #             error tolerance (default 0.0001)
+  -E #             optical depth (=mua*D) for slides
+  -f #             allow a fraction 0.0-1.0 of light to hit sphere wall first
+  -F #             constrain scattering coefficient
+                   # = constant: use constant scattering coefficient 
+                   # = 'P lambda0 mus0 gamma' then mus=mus0*(lambda/lambda0)^gamma
+                   # = 'R lambda0 musp0 gamma'  musp=musp0*(lambda/lambda0)^gamma
+  -g #             scattering anisotropy (default 0)
+  -G #             type of boundary '0', '2', 't', 'b', 'n', 'f' 
+                   '0' or '2'                --- number of slides
+                   't' (top) or 'b' (bottom) --- one slide that is hit by light first
+                   'n' (near) or 'f' (far)   --- one slide position relative to sphere
+  -h               display help
+  -H #             # = 0, no baffles for R or T spheres
+                   # = 1, baffle for R but not for T sphere
+                   # = 2, baffle for T but not for R sphere
+                   # = 3, baffle for both R and T spheres (default)
+  -i #             incident angle in degrees
+  -j #             constrain reduced scattering coefficient 
+  -J               generate grid after inverse calculation
+  -l #             wavelength limits
+  -L #             specify the wavelength lambda
+  -M #             limit number of Monte Carlo iterations
+  -n #             specify index of refraction of slab
+  -N #             specify index of refraction of slides
+  -o filename      explicitly specify filename for output
+  -p #             # of Monte Carlo photons (default 100000)
+                   a negative number is max MC time in milliseconds
+  -q #             number of quadrature points (default=8)
+  -r #             total reflection measurement
+  -R #             actual reflectance for 100% measurement
+  -s #             specify type of search to do
+  -S #             number of spheres used
+  -t #             total transmission measurement
+  -T #             actual transmission for 100% measurement 
+  -u #             unscattered transmission measurement
+  -v               version information
+  -V 0             verbosity low --- no output to stdout
+  -V 1             verbosity moderate 
+  -V 2             verbosity high
+  -w #             wall reflectivity for reflection sphere
+  -W #             wall reflectivity for transmission sphere
+  -x #             set debugging level
+  -X               dual beam configuration
+  -z               do forward calculation
+Examples:
+  iad file.rxt              Results will be put in file.txt
+  iad file                  Same as above
+  iad -c 0.9 file.rxt       Assume M_R includes 90% of unscattered reflectance
+  iad -C 0.8 file.rxt       Assume M_T includes 80% of unscattered transmittance
+  iad -e 0.0001 file.rxt    Better convergence to R & T values
+  iad -f 1.0 file.rxt       All light hits reflectance sphere wall first
+  iad -l '500 600' file.rxt Only do wavelengths between 500 and 600
+  iad -o out file.rxt       Calculated values in out
+  iad -r 0.3                R_total=0.3, b=inf, find albedo
+  iad -r 0.3 -t 0.4         R_total=0.3, T_total=0.4, find a,b,g
+  iad -r 0.3 -t 0.4 -n 1.5  R_total=0.3, T_total=0.4, n=1.5, find a,b
+  iad -r 0.3 -t 0.4         R_total=0.3, T_total=0.4, find a,b
+  iad -p 1000 file.rxt      Only 1000 photons
+  iad -p -100 file.rxt      Allow only 100ms per iteration
+  iad -q 4 file.rxt         Four quadrature points
+  iad -M 0 file.rxt         No MC    (iad)
+  iad -M 1 file.rxt         MC once  (iad -> MC -> iad)
+  iad -M 2 file.rxt         MC twice (iad -> MC -> iad -> MC -> iad)
+  iad -M 0 -q 4 file.rxt    Fast and crude conversion
+  iad -G t file.rxt         One top slide with properties from file.rxt
+  iad -G b -N 1.5 -D 1 file Use 1 bottom slide with n=1.5 and thickness=1
+  iad -x   1 file.rxt       Show sphere and MC effects
+  iad -x   2 file.rxt       Show grid decisions
+  iad -x   4 file.rxt       Show iterations
+  iad -x   8 file.rxt       Show lost light effects
+  iad -x  16 file.rxt       Show best grid points
+  iad -x  32 file.rxt       Show decisions for type of search
+  iad -x  64 file.rxt       Show all grid calculations
+  iad -x 128 file.rxt       Show sphere calculations
+  iad -x 256 file.rxt       DEBUG_EVERY_CALC
+  iad -x 511 file.rxt       Show all debugging output
+  iad -X -i 8 file.rxt      Dual beam spectrometer with 8 degree incidence
+
+  iad -z -a 0.9 -b 1 -i 45  Forward calc assuming 45 degree incidence
+
+  apply iad x.rxt y.rxt     Process multiple files
+
+  #############################################################################################
+  ad finds the reflection and transmission from optical properties
+
+Usage:  ad [options] input
+
+Options:
+  -a #             albedo (0-1)
+  -b #             optical thickness (>0)
+  -g #             scattering anisotropy (-1 to 1)
+  -h               display help
+  -i theta         oblique incidence at angle theta
+  -m               machine readable output
+  -n #             specify index of refraction of slab
+  -o filename      explicitly specify filename for output
+  -q #             quadrature points 4, 8, 16, 32
+  -s #             specify index of refraction of slide
+  -v               version information
+Examples:
+  ad data                        UR1, UT1, URU, UTU in data.rt
+  ad -m data                     data.rt in machine readable format
+  ad data -o out.txt             out.txt is the
+  ad -a 0.3                      a=0.3, b=inf, g=0.0, n=1.0
+  ad -a 0.3 -b 0.4               a=0.3, b=0.4, g=0.0, n=1.0
+  ad -a 0.3 -b 0.4 -g 0.5        a=0.3, b=0.4, g=0.5, n=1.0
+  ad -a 0.3 -b 0.4 -n 1.5        a=0.3, b=0.4, g=0.0, n=1.5
+
+inputfile has lines of the form:
+    a b g nslab ntopslide nbottomlslide btopslide bbottomslide q
+where:
+    1) a = albedo
+    2) b = optical thickness
+    3) g = anisotropy
+    4) nslab = index of refraction of slab
+    5) ntopslide = index of refraction of glass slide on top
+    6) nbottomslide = index of refraction of glass slide on bottom
+    7) btopslide = optical depth of top slide (for absorbing slides)
+    8) bbottomslide = optical depth of bottom slide (for absorbing slides)
+    9) q = number of quadrature points
+
+
+
+## example command
+
+    iad.exe -X -i 8 -g 0.9 yourfile.rxt > output.txt
+    python iadplus.py -options "-i 8 -X" yourfile.rxt

@@ -1,5 +1,5 @@
 # Inverse Adding-Doubling 3-16-3 (15 May 2024) 
-# C:\Users\LUCUS\Desktop\iad-win-3-16-3\iad.exe -M 0 -q 4 test/vio-A 
+# C:\Users\LUCUS\Desktop\japan-data\Japan\iad-win-3-16-3\iad.exe -M 0 -q 4 test/vio-A 
 #                        Beam diameter =     5.0 mm
 #                     Sample thickness =   6.670 mm
 #                  Top slide thickness =   0.000 mm

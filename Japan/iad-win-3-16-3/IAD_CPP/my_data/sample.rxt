@@ -1,0 +1,40 @@
+IAD1
+#
+# Measurements made by Anisha Bahl at King's College of a PDMS
+# without glass slides using a dual beam spectrometer
+#
+# PDMS Refractive index from 
+# https://refractiveindex.info/?shelf=organic&book=polydimethylsiloxane&page=Schneider-RTV615
+#
+# Process this file as 'iad -X -i 8 -g 0.9 filename'
+#
+1.41  # Index of refraction of sample
+1.00  # Index of refraction of slides
+2.65  # [mm] Thickness of sample
+0     # [mm] Thickness of slides
+10    # [mm] Diameter of illumination beam 
+0.98  # Reflectance of calibration standard
+
+1     # [mm] Number of spheres used during each measurement
+
+# Reflection sphere properties
+100   # [mm] Sphere Diameter
+21.8  # [mm] Sample Port Diameter
+18.3  # [mm] Empty Port Diameter
+8     # [mm] Detector Port Diameter
+0.98  # Reflectivity of the sphere wall
+
+# Transmission sphere properties
+100   # [mm] Sphere Diameter
+18.3  # [mm] Sample Port Diameter
+0     # [mm] Empty Port Diameter
+8     # [mm] Detector Port Diameter
+0.98  # Reflectivity of the sphere wall
+
+ L      r         t         n
+1500.0  0.29950   0.35218   1.41832
+1490.0  0.31782   0.36832   1.41835
+1480.0  0.32727   0.37407   1.41838
+1470.0  0.33035   0.37244   1.41841
+1460.0  0.33056   0.36711   1.41844
+1450.0  0.33306   0.36449   1.41847

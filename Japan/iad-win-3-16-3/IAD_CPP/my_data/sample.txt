@@ -1,0 +1,50 @@
+# Inverse Adding-Doubling 3-16-3 (15 May 2024) 
+# C:\Users\LUCUS\Desktop\japan-data\Japan\iad-win-3-16-3\IAD_CPP\iad.exe -X -i 8 -g 0.9 my_data/sample.rxt 
+#                        Beam diameter =    10.0 mm
+#                     Sample thickness =   2.650 mm
+#                  Top slide thickness =   0.000 mm
+#               Bottom slide thickness =   0.000 mm
+#           Sample index of refraction =  (varies with input row)
+#        Top slide index of refraction =  1.0000 mm
+#     Bottom slide index of refraction =  1.0000 mm
+# 
+#  Percentage unscattered refl. in M_R =   100.0 %
+# Percentage unscattered trans. in M_T =   100.0 %
+# 
+# Reflection sphere has a baffle between sample and detector
+#                      sphere diameter =   100.0 mm
+#                 sample port diameter =    21.8 mm
+#               entrance port diameter =    18.3 mm
+#               detector port diameter =     8.0 mm
+#                 detector reflectance =     0.0 %
+#                     wall reflectance =    98.0 %
+#                 calibration standard =    98.0 %
+#
+# Transmission sphere has a baffle between sample and detector
+#                      sphere diameter =   100.0 mm
+#                 sample port diameter =    18.3 mm
+#                  third port diameter =     0.0 mm
+#               detector port diameter =     8.0 mm
+#                 detector reflectance =     0.0 %
+#    wall reflectance and cal standard =    98.0 %
+#                 calibration standard =   100.0 % (ignored)
+#
+# 4 input columns with LABELS: L  r  t  n  using the comparison (dual-beam) method.
+# No sphere corrections were needed and light was incident at 8 degrees from the normal.
+# The inverse routine adapted to the input data.
+# 
+# 
+#                 AD quadrature points =  12
+#             AD tolerance for success =   0.00010
+#      MC tolerance for mu_a and mu_s' =   0.010 %
+#  Photons used to estimate lost light =   100000
+#
+#     	Measured 	   M_R   	Measured 	   M_T   	Estimated	Estimated	Estimated
+##wave	   M_R   	   fit   	   M_T   	   fit   	  mu_a   	  mu_s'  	    g    
+# [nm]	  [---]  	  [---]  	  [---]  	  [---]  	  1/mm   	  1/mm   	  [---]  
+1500.0	   0.2995	   0.2995	   0.3522	   0.3522	   0.0416	   0.5797	   0.9000	 * 
+1490.0	   0.3178	   0.3178	   0.3683	   0.3683	   0.0348	   0.5856	   0.9000	 * 
+1480.0	   0.3273	   0.3272	   0.3741	   0.3741	   0.0319	   0.5939	   0.9000	 * 
+1470.0	   0.3303	   0.3303	   0.3724	   0.3724	   0.0318	   0.6034	   0.9000	 * 
+1460.0	   0.3306	   0.3305	   0.3671	   0.3671	   0.0327	   0.6143	   0.9000	 * 
+1450.0	   0.3331	   0.3330	   0.3645	   0.3645	   0.0329	   0.6256	   0.9000	 * 
