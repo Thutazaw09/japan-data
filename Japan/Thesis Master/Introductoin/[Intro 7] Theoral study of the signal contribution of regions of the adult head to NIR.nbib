@@ -1,0 +1,72 @@
+PMID- 9698577
+OWN - NLM
+STAT- MEDLINE
+DCOM- 19981203
+LR  - 20061115
+IS  - 1053-8119 (Print)
+IS  - 1053-8119 (Linking)
+VI  - 8
+IP  - 1
+DP  - 1998 Jul
+TI  - A theoretical study of the signal contribution of regions of the adult head to 
+      near-infrared spectroscopy studies of visual evoked responses.
+PG  - 69-78
+AB  - Near-infrared (NIR) spectroscopy has been used in studies of the cerebral 
+      hemodynamic response to visual processing. In this paper, we present theoretical 
+      results from finite element and Monte Carlo modeling in order to help understand 
+      the contribution to the NIR signal from different parts of the head. The results 
+      from the models show that at the typical optode spacings used in these studies, 
+      an infrared spectroscopy measurement of intensity is sensitive to the outer 1-2 
+      mm of the cortical gray matter and the partial optical path length in the gray 
+      matter is approximately 10 mm, compared with a total optical path length of 400 
+      mm. When the NIR measurement is of change in mean photon arrival time (or phase 
+      shift), the signal comes from the upper 2-4 mm of the cortical surface and there 
+      is an increased lateral spread of the contributing tissue. We predict that for a 
+      4-cm separation of input and detection optodes at 800 nm, a 1 microM change in 
+      hemoglobin concentration in the cortex corresponds to an attenuation change of 
+      approximately 0.001 OD (optical density) or 1 ps mean time change. Movement of 
+      the brain caused by this increase in volume will cause an absorption change of 
+      approximately half this magnitude, but does not affect the photon arrival time at 
+      4-cm spacing. A discrepancy between the predicted and the experimentally measured 
+      intensities may support the supposition that the NIR signal is actually very 
+      sensitive to changes occurring in the pial cerebral vessels lying on the brain 
+      surface.
+FAU - Firbank, M
+AU  - Firbank M
+AD  - University Department of Radiology, Royal Victoria Infirmary, Newcastle upon 
+      Tyne, United Kingdom.
+FAU - Okada, E
+AU  - Okada E
+FAU - Delpy, D T
+AU  - Delpy DT
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Neuroimage
+JT  - NeuroImage
+JID - 9215515
+SB  - IM
+MH  - Adult
+MH  - Arousal/physiology
+MH  - *Brain Mapping
+MH  - Cerebral Cortex/physiology
+MH  - Evoked Potentials, Visual/*physiology
+MH  - Finite Element Analysis
+MH  - Humans
+MH  - Models, Neurological
+MH  - Monte Carlo Method
+MH  - Oxygen Consumption/physiology
+MH  - Pia Mater/blood supply
+MH  - Sensitivity and Specificity
+MH  - *Spectroscopy, Near-Infrared
+EDAT- 1998/08/12 00:00
+MHDA- 1998/08/12 00:01
+CRDT- 1998/08/12 00:00
+PHST- 1998/08/12 00:00 [pubmed]
+PHST- 1998/08/12 00:01 [medline]
+PHST- 1998/08/12 00:00 [entrez]
+AID - S1053-8119(98)90348-2 [pii]
+AID - 10.1006/nimg.1998.0348 [doi]
+PST - ppublish
+SO  - Neuroimage. 1998 Jul;8(1):69-78. doi: 10.1006/nimg.1998.0348.

@@ -1,0 +1,39 @@
+Optimization of Calcined bone powder and silance-crosslinked alginate composties for enhanced mechanical performance as a cortical bone substitue
+
+-> trabecular bone (composites of calcined bone powder and silane-crosslinked alginate)
+-> cortical bone
+
+# this study explore a strategy to address this limitation by optimizing the composite formualtion through blending ratio adjustment and nanoparticulation of calcined bone powder. 
+
+-> Cylindrical composites were fabricated by varying the ratios of calcined bone powder (average particale size 246 micrometer), alginate , and silane cross-linking agent. 
+
+-> increasing the alginate ratio 10-fold (B/A 10-Si) reltative to the original formation (B/A-Si) led to significant increases in elastic moudulus, maximum stress and strain energy which were futher imporved with the addition of a reduced amaout of silane agent (B/A 10-Si 1/10)
+-> additional enhancement was achieved by using the nanoparticulated bone powder, leading to further increses in modulus, strength and energy by factor of 2.4,1.7 and 1.4 respectively.
+
+-> overall ,the elastic modulus, maximum  stress, and strain energy improved 8.4-fold, 18-fold and 11-fold compared to B/A-Si, approaching the values of characteristic of cortical bone. 
+
+These findings suggest that combining blending optimization with nanoparticulation is a promising strategy to enhance the mechanical performance of naturally derived composites and may expand their applicability to cortical bone replacement.
+
+
+
+[This material mimic the bone mechanical properties, its optical properties are not mentioned in the paper]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

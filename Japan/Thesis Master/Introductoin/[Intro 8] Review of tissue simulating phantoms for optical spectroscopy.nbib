@@ -1,0 +1,73 @@
+PMID- 16965130
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20070104
+LR  - 20220331
+IS  - 1083-3668 (Print)
+IS  - 1083-3668 (Linking)
+VI  - 11
+IP  - 4
+DP  - 2006 Jul-Aug
+TI  - Review of tissue simulating phantoms for optical spectroscopy, imaging and 
+      dosimetry.
+PG  - 041102
+AB  - Optical spectroscopy, imaging, and therapy tissue phantoms must have the 
+      scattering and absorption properties that are characteristic of human tissues, 
+      and over the past few decades, many useful models have been created. In this 
+      work, an overview of their composition and properties is outlined, by separating 
+      matrix, scattering, and absorbing materials, and discussing the benefits and 
+      weaknesses in each category. Matrix materials typically are water, gelatin, agar, 
+      polyester or epoxy and polyurethane resin, room-temperature vulcanizing (RTV) 
+      silicone, or polyvinyl alcohol gels. The water and hydrogel materials provide a 
+      soft medium that is biologically and biochemically compatible with addition of 
+      organic molecules, and are optimal for scientific laboratory studies. Polyester, 
+      polyurethane, and silicone phantoms are essentially permanent matrix compositions 
+      that are suitable for routine calibration and testing of established systems. The 
+      most common three choices for scatters have been: (1.) lipid based emulsions, 
+      (2.) titanium or aluminum oxide powders, and (3.) polymer microspheres. The 
+      choice of absorbers varies widely from hemoglobin and cells for biological 
+      simulation, to molecular dyes and ink as less biological but more stable 
+      absorbers. This review is an attempt to indicate which sets of phantoms are 
+      optimal for specific applications, and provide links to studies that characterize 
+      main phantom material properties and recipes.
+FAU - Pogue, Brian W
+AU  - Pogue BW
+AD  - Dartmouth College, Thayer School of Engineering, Hanover, New Hampshire 03755, 
+      USA. pogu@Dartmouth.edu
+FAU - Patterson, Michael S
+AU  - Patterson MS
+LA  - eng
+GR  - P01CA43892/CA/NCI NIH HHS/United States
+GR  - P01CA80139/CA/NCI NIH HHS/United States
+GR  - P01CA84203/CA/NCI NIH HHS/United States
+GR  - R01CA109558/CA/NCI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+PL  - United States
+TA  - J Biomed Opt
+JT  - Journal of biomedical optics
+JID - 9605853
+SB  - IM
+MH  - Biomimetics/*instrumentation/methods
+MH  - Diagnostic Imaging/*instrumentation/methods
+MH  - Equipment Design
+MH  - Humans
+MH  - Light
+MH  - *Models, Biological
+MH  - Optics and Photonics/*instrumentation
+MH  - *Phantoms, Imaging
+MH  - Radiation Dosage
+MH  - Radiometry/*instrumentation/methods
+MH  - Spectrum Analysis/*instrumentation/methods
+RF  - 164
+EDAT- 2006/09/13 09:00
+MHDA- 2007/01/05 09:00
+CRDT- 2006/09/13 09:00
+PHST- 2006/09/13 09:00 [pubmed]
+PHST- 2007/01/05 09:00 [medline]
+PHST- 2006/09/13 09:00 [entrez]
+AID - 10.1117/1.2335429 [doi]
+PST - ppublish
+SO  - J Biomed Opt. 2006 Jul-Aug;11(4):041102. doi: 10.1117/1.2335429.
