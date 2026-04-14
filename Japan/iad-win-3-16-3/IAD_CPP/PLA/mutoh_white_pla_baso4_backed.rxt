@@ -1,0 +1,29 @@
+IAD1
+# 2mm MUTOH White PLA - Manufacturer Spec Update
+# Standard: 98% | Wall: 96%
+1.47  # Index of refraction
+1.00  # Index of slides
+2.00  # [mm] Thickness
+0     # [mm] Thickness of slides
+3.0   # [mm] Beam diameter
+0.980 # Calibration standard (Manufacturer Spec)
+
+1     # Number of spheres
+
+# Reflection sphere properties
+76.2  # [mm] Sphere Diameter
+25.4  # [mm] Sample Port
+25.4  # [mm] Entrance Port
+2.0   # [mm] Detector Port
+0.960 # Wall Reflectivity (Manufacturer Spec)
+
+# Transmission sphere properties
+76.2  # [mm] Sphere Diameter
+25.4  # [mm] Sample Port
+0.0   # [mm] Entrance Port (Per Manual)
+2.0   # [mm] Detector Port
+0.960 # Wall Reflectivity (Manufacturer Spec)
+
+ L      r         t         n         g
+852.0  0.56861   0.26509   1.47000   0.90000
+852.0  0.56861   0.26509   1.47000   0.90000

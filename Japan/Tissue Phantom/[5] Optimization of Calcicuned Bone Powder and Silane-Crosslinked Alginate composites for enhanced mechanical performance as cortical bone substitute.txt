@@ -18,10 +18,31 @@ These findings suggest that combining blending optimization with nanoparticulati
 
 [This material mimic the bone mechanical properties, its optical properties are not mentioned in the paper]
 
+#####################################################
+
+-> Problem statement 
+-> While composties of calcined bone powder and silane-corsslinked alginate exhibit good biocompatibility and mechanical properties resembling those of tabecular bone, their mechanical properties remain insufficient for cortical bone applications.
+
+# Optimized the composite formulation through 
+-> blending ratio adjustment and 
+-> nanoplarticulation of calcined bone powder.
+
+# Method
+-> cylindrical composites were fabricated by varying the ratios of calcined bone powder (246 um), alginate and silane cross-linnking agent. 
+
+# Results 
+
+-> increaing the alginate raito 10-fold (B/A 10-Si) relative to the original formulation of (B/A-Si) led to significant increase in elastic modulus, maximum stress and strain energy which were further improved with the addition of a reduced amount of silane agent (B/A 10-Si1/10).
+
+-> additional enhancement was achieved using nanoparticulate bone powder (average particle size 651 nm), leading to further increases in modulus, strength and energy by factors of 2.4, 1.7 and 1.4 respectively
+
+compared to B/A 10-Si 1/10 
 
 
+-> overall the elastic modulus, maximum stress, and strain energy improved 8.4 fold, 18-fold and 11-fold compared to B/A -Si, approaching values characteristic of cortical bone.
 
 
+These findings suggest that combinging bledning optimizing with nanoparticulation is a promising strategy to enhance the mechanical performance of naturally derived composites and may expand their applicability to cortical bone replacement. 
 
 
 

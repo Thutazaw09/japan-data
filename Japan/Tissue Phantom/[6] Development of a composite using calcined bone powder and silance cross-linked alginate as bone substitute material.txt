@@ -1,0 +1,143 @@
+# Development of a composite using calcined bone powder and silane cross-linked alginate as bone substitute material 
+
+-> Calcined bone is an attractive natural material for use as a bone substitute because of its cost-effectiveness and high biocompatibility.
+-> calcination process has significantly weakened the mechancial properties.
+
+-> calcined bovine bone powder reinforced with silance cross-linked alginate was prepared to assess its biocompactibility, osteoconductivity and mechanical compactibility as bone substitute material.
+
+
+-> culture studies with osteoblast-like cells showed no cytotoxicity toward the composite and exhibited general cell proliferative properties in its presence. 
+
+-> the composite reduced the alkaline phosphatase activity of osteoblasts but led to significant noncellular apatite 
+
+-> quasi-static compression tests of the composite revealed mechanical propertie comparable to thoose of human cancellous bone.
+
+-> The mechanical properties remained stable under wet conditions and did not deteriorate significantly even after 2 weeks of immersion in simulated body fluid at 37*C
+
+-> Results showed that this composite, composed of calcined bone powder and silane cross-linked alginate, is a promising bone substitute material with biocompatibility, 
+
+# Introduction
+
+-> initial rigidity and mechanical compatibiliity are essential elements to avoid stress shileding 
+
+-> in this study a novel bone substitue matieral was developed by combining calcined bovin bone particle with alginate, a natural polysaccharide extracted from seaweek and a cost-effective 
+
+
+-> calcined bone particle that contribute to mechanical rigidity and 
+-> alginate fibers, which provide fracture resistance. 
+
+-> this composite is expected to have high mechanical toughness and mechanical compatibility. 
+
+
+-> alginate gel when placed in body fluids, as swelling of the gel occurs by leaching calcium ions from the gel.
+-> consequently, the mechanical properties of the composite deteriorated considerably soon after transplantation.
+
+-> covalent cross-linking of alginate fibers occurs through 3-amino-propyltriethoxysilane promoted silane coupling and alginate spontaneously form apatite by incorporationg calcium and phosphate ions from body fluids.
+
+-> Therefore, it was hypothesized that the calcined bone powder/alginate composite could obtain the necessary mechanical rigidity, mechancial stability in body fluids, and osteoconductivity though silane coupling.
+
+# Validation 
+-> observing the changes in simulated body fluids (SBF)
+-> cytotoxity of the composite using the cultured osteoblast cells was assessed and the impact of the composite on cell proliferation, differentiation and bone matix formation was investigated.
+
+
+# Results 
+
+
+# Mechanical properties of the composite material 
+
+-> the maximum stress and elastic modulus of B/A-Si wer initially measured at 7.51+-2.20 MPa and 219+-66.9 MPa. before immersion
+-> these properteis showed a decreasing trend with incrasing immersion time up to 2 weeks, 
+-> no significant difference was found between observation days.
+
+# Cytotoxicity
+-> regardless of the perentage of extraction fluid used, the cell viability was approximately 95%, equivalent to when fresh medium was used for cultivation, and no statistically significant differences were observed between groups.
+
+-> the composite had no effect on osteoblast proliferation. 
+
+# observation
+-> the mechanical properties of the composite were comparable to those of the human cancellous bone.
+(good initial rigidity and adaptability)
+-> these properties remained relatively stable even after 2 weeks of immersion in SBF and did not deteriorate significantly.
+-> B/A-Si is not toxic to osteoblasts and has no noticeable effect on cell proliferation.
+-> decrease in ALP activity.
+-> incontrast, B/A-Si induced the formation of noncellular apatite. 
+-> these findings suggest that this composite material has mechanical compatibility, biocompatibility and osteoconductive properties, making it a promising bone substitute material.
+
+####
+
+Calcined bone powder 
+
+-> X-ray diffraction analysis of the calcined bone powder showed a similar spectrum to that of hydroxyapatite
+-> The FTIR spectrum of the calcined bone powder was similar to that of hydroxyapatite (highly scattering)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

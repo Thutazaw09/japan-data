@@ -1,0 +1,199 @@
+# 3-dimensional printed optical phantoms with customized absorption and scattering properties
+
+-> commercially avaialble thermoplastics provide only a small range of physiologically relevant absorption (ua) and reduced scattering (us') values.
+
+-> customizable acrylonitrile butadiene styrene (ABS) filaments for dual extrusion 3D printing of tissue mimicking optical phantoms. 
+
+-> ua and us' values were adjustable by incorporating nigrosin and titanium dioxide in the filament extrusion process.
+
+-> a wide range of physiologically relevant optical properties was demonstrated with a average repeatability with 11.5% for ua and 7.71% for us'. 
+
+-> 3D printing with user defined optical properties may provide a viable method for durable optically diffusive phantoms for instrument characterization and calibration.
+
+# introduction 
+
+
+
+# Literature Review
+
+
+################### 
+#Problem statement#
+###################
+
+-> commercially available thermoplastic provide only a samll range of physiologically relevant absorption and reduced scattering values.
+
+-> customizable acrylonitrile butadiene styrene (ABS) filaments for dual extrusion 3D printing of tissue mimicking optical phantoms. 
+
+-> ua and us' values were adjusted by incorporating nigrosin and titanium dioxide in the filament extrusion process.
+-> A wide range of physiologically relevant optical properties was demonstrated with an average repeatability within 11.5% for Ua nad
+7.71 % for us'.
+
+-> Dual extrusion method was used to print the mouse phantom
+
+-> 3D printed tumor optical properties matched the live tumor with less than 3% error at wavelength of 659 nm.
+
+
+####################
+# Literature Review#
+####################
+
+-> Dependable tissue-simulating phantoms are necessary for many optical imaging and spectroscopy application, and often occupy a key role in system development, calibration, multi-center trials, and the testing of new imaging protocol
+
+-> liquids
+-> solidified 
+# difficult to control the geometry of the final product.
+-> (agar, silicone, resins are commomly used as a matric substrate for solid phantoms iwth absorbing dyes and scattering agents added prior to curing)
+
+#  A key step in improving the versatility of 3D printed optical phantoms is the ability to alter the raw materials' optical absorption coefficient, ua and reduced scattering coefficientn, us' to match that of a known target tissue. 
+-> A rapid and consistent methodology to generate this raw material would allow the fabrication of phantoms for specific applications.
+-> the imporatance of this development would be compounded by the ability to spatially vary the optical properties thoughout a 3D printed phantom.
+
+The crieria that followed
+-> designed phantom geometry in three dimensions
+-> customizable ua and us' of raw printing materials
+-> spatially varying optical properties within a 3D printed phantom.
+
+-> the most commonly used 3D printing thermoplastic, acrylonitrile butadiene styrene (ABS), by utilizing the addition of an absorbing dye nigrosin and scattering agent, titanium dioxide., to the raw ABS material prior to extrusion.
+
+-> 6 Pages 
+##############
+#2 validation#
+##############
+-> repeatibility and physiologically relevant optical properties
+-> to demonstrate the ability to spatially vary the optical properties of a 3D printed phantom, a live mouse with tumor is printed.
+
+#####################
+#Material and Method#
+#####################
+Filament fabrication
+-> custom filament suitable for 3D printing was fabricated by co-extruding a mixture of commercially available natural color ABS pellets, (Filabot, Montpelier, VT) with custom absorption and scattering ABS "chips"
+
+-> These chips are made by combining ABS with either absorbing dye nigrosin or the scattering agent titanium dioxide (TiO2), both of which have been used in other optical phantom recipes. 
+
+
+## Method ##
+-> Fabrication of TiO2 chips consisted of the following steps:
+-> 20 g of ABS pellets were dissolved in 50 ml of acetone for at least 12 hours. 
+-> in a separate continer, 0.2 g of TiO2 was mixed with 10 ul of tap water and sonicated for 10 minutes, with up to 5 additional minutes if heterogeneties were persistent.
+
+-> 1000 ul of acetone was then added in 200 ul increments to prevent precipitation of TiO2. 
+-> The TiO2 solution was gradually added to the ABS mixture and was stirred vigorously to create a homogeneous solution. 
+-> The mixture was then poured into a 21x21 cm pan to a layer thickness of 1.5 mm and vacummed to remove air bubbles. 
+-> Vacuuming consisted of an 80 kPa vacuum for 1 min followed by a reduced 40 kPa vacuum for 1-2 seconds.
+
+-> This was repeated until the visible bubbles were eliminated.
+-> The pan and ABS/TiO2 solution were left in the 40 kPa vacuum overnight to dry and solidify.
+-> once completely solidifed, the thin sheet was cut with scissors into small chips approximately 2x2 mm in dimension.
+-> Nigrosion chips were created using the same protocol described above but replacing TiO2 solution with a solution of 0.02g of nigrosin and 800 ul tap water. 
+
+-> The ratio of nigrosin/TiO2 chips to ABS pellet in a specific filament was specified by mass ratio.
+
+
+
+-> A commercially available pastic extruder (Wee Extruder, Filabot, Montpelier, VT) was used to extrude custom filaments. 
+
+-> Each extrusion required a total mass of 30 g and the die temperature was set to 181.5 C. 
+
+-> The Nigrosin and TiO2 chips were mixed together prior to extrusion in the desired mass ratio. 
+-> Each was apportioned into smaller samples and then added to the hopper regularly throughout the extrusion process to provide a more homogeneous filament product.
+
+
+-> Need to know the filament diamenter.
+
+-> Repeatability was demonstrated by making several cubes with the same recipe.
+
+-> 0.0025% Nigrosin and 0.20% TiO2
+-> 0.0075% Nigrosion and 0.10% TiO2
+
+
+# SFDI 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

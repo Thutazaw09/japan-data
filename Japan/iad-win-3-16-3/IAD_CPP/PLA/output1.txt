@@ -1,0 +1,46 @@
+# Inverse Adding-Doubling 3-16-3 (15 May 2024) 
+# iad.exe -o C:/Users/LUCUS/Desktop/japan-data/Japan/iad-win-3-16-3/IAD_CPP/PLA/mutoh_white_pla_baso4_backed.txt -X -i 8 -p 100000 C:/Users/LUCUS/Desktop/japan-data/Japan/iad-win-3-16-3/IAD_CPP/PLA/mutoh_white_pla_baso4_backed.rxt 
+#                        Beam diameter =     3.0 mm
+#                     Sample thickness =   2.000 mm
+#                  Top slide thickness =   0.000 mm
+#               Bottom slide thickness =   0.000 mm
+#           Sample index of refraction =  (varies with input row)
+#        Top slide index of refraction =  1.0000 mm
+#     Bottom slide index of refraction =  1.0000 mm
+# 
+#  Percentage unscattered refl. in M_R =   100.0 %
+# Percentage unscattered trans. in M_T =   100.0 %
+# 
+# Reflection sphere has a baffle between sample and detector
+#                      sphere diameter =    76.2 mm
+#                 sample port diameter =    25.4 mm
+#               entrance port diameter =    25.4 mm
+#               detector port diameter =     2.0 mm
+#                 detector reflectance =     0.0 %
+#                     wall reflectance =    96.0 %
+#                 calibration standard =    98.0 %
+#
+# Transmission sphere has a baffle between sample and detector
+#                      sphere diameter =    76.2 mm
+#                 sample port diameter =    25.4 mm
+#                  third port diameter =     0.0 mm
+#               detector port diameter =     2.0 mm
+#                 detector reflectance =     0.0 %
+#    wall reflectance and cal standard =    96.0 %
+#                 calibration standard =   100.0 % (ignored)
+#
+# 5 input columns with LABELS: L  r  t  n  g  using the comparison (dual-beam) method.
+# No sphere corrections were needed and light was incident at 8 degrees from the normal.
+# The inverse routine adapted to the input data.
+# 
+# 
+#                 AD quadrature points =  12
+#             AD tolerance for success =   0.00010
+#      MC tolerance for mu_a and mu_s' =   0.010 %
+#  Photons used to estimate lost light =   100000
+#
+#     	Measured 	   M_R   	Measured 	   M_T   	Estimated	Estimated	Estimated
+##wave	   M_R   	   fit   	   M_T   	   fit   	  mu_a   	  mu_s'  	    g    
+# [nm]	  [---]  	  [---]  	  [---]  	  [---]  	  1/mm   	  1/mm   	  [---]  
+ 852.0	   0.5686	   0.5686	   0.2651	   0.2650	   0.0215	   2.3970	   0.9000	 * 
+ 852.0	   0.5686	   0.5686	   0.2651	   0.2650	   0.0215	   2.3970	   0.9000	 *

@@ -1,0 +1,132 @@
+Characterization of 3D printed PLA/PCL/TiO2 Composites for Cancellous Bone
+
+-> 3D bone structure with suitable porosity.
+-> A material that mimics their properties was developed by optimizing the ratio of a biodegradaINble blend (PLA) and (PCL).
+-> In this study, PLA and PCL particularly optimize the strength of the artifical cacellous bone by suppling the initial support strength lasting 6 months to 2 years and allowing for the gradual degradation desired in the human body. 
+-> This study focused o the mechanical properties of printed 3D printed structures.
+
+-> the ultimate tensile strenght was modified by blending different ratio of PLA and PCL resulting in an optimum value of approximately 30 MPa when the ratio of PLA to PCL reached 3:1
+
+-> the addition of 1% of titanium dioxide (TiO2) to the immiscible PLA/PCL composite and the modification of the interface area between them resulted in the formation of a binding force that allowed for an increaase in the tensile strength up to 37 MPa. 
+
+-> biocompatibility of PLA/PCL/TiO2 composites was examined. (vigorous cell growth was observed)
+
+# Introduction
+-> the type of graft can be classified as autograft, allograft and bone graft.
+
+-> The ultimate tensile strength (UTS) and Young's Modulus of human bone are 60~120 MPa for compact bones and 7-25 GPa respectively at different ages.
+
+
+
+# Currently used biodegradable polymers include (synthetic)
+-> Polylactic acid (PLA)
+-> polyglycolic acid (PGA)
+-> polye-caprolactone (PCL)
+-> ployB-hydroxybutayrate (PHB)
+-> ploylactic acid-c-glycolic acid (PLGA)
+
+# PLA and PCL have been used in the field of biomedical applications due to thier biocompatibility with human body, and their mechanical properties in vivo.
+
+# the presence of PCL in PLA will not only improve its toughness, but also its thermal stability. When it is blend with PCL, the brittleness of PLA is improved.
+
+# TiO2 particles can be introduced into the composite to obtain even more favorable material propeties such as toughness, flexibility and thermal stability.
+
+# TiO2 is an inorganic particle, it exhibits suitable biocompatibility and is well known to be non-toxic depending on the size of the particles and condition of aggregation.
+
+# Fused deposition modeling (FDM) 
+-> it is a 3D printing process that builds structures by extruding a semiliquid thermoplastic filament layer by layer. 
+
+# Results #
+-> Optimum meachanical properties when the PLA and PCL were blended at a ratio of 3:1. 
+-> Moreover, the addition of 1 wt% of titanium dioxide results in a comparable mechanical strength of the ideal cancellous bone structure. 
+
+# Material
+# PLA 
+-> the polylactic acid used in the study was a commercial grade (PLA) with density of 1.24 g/cc, glass transition temperature of 53C and the a melting temperature of 153C. 
+
+-> Polycaprolactone has a density of 1.15 g/cc at 25C. a glass transition temperature of 60C and a melting temperature 65C.
+
+-> the titianium dioxide was received as anatase with a melting point of >350C, and a density of 4.26 g/cc at 25C, and the particle size varied from 0.5 to 1 micro meter.
+
+
+# Filament Preparation
+
+-> To make the filament, a blend was prepared to make pellets with the desired composition. 
+-> the first blends made were a mixture of PLA/PCL with different compositions (75/25 wt%, 50/50 ,25/75) 
+
+-> the blend of PLA/PCL 75%/25% showed the best characteristices. 
+-> add the TiO2 to the ratio
+
+-> The mixing process starts by frist melting the corresponding amount of PLA due to its higher melting point. PCL is then added
+and when the blend is uniformly mixed, the filler is added and stirred until a homogeneous mixture is achieved .
+
+-> The solid mixture is then cut into pieces small enough to be fed into the filament extruder.
+
+
+
+
+# Advantage of PLA
+-> the process of grafting is expensive because it usually includes meatal substitutes such as stainless steel, magnesium, titanium or cobalt alloys, and this method of using metal has had some problems due to factors such as the metal's higher strength and toxicity.
+
+#Toxicity
+-> some kinds of metal ions (titanium, aluminum, vanadium, nickel, cobalt, chromium) released over a period of time are toxic in the human body, and even if some of them are normal components of the body, they can become toxic at high dosage. 
+
+-> When the strength of the bone is less than the transplanted support, the bone will most likely break instead of the implant.
+can cause stress shielding (weakening of bone)
+
+-> For temporary grafting, biodegradable materials are used.
+-> biodegradable tissue can degenerate and eventually disappear as new tissue.
+
+PLA, PCL, and PHB and PLGA are synthetic biodegradable thermoplastic polymer.
+
+PLA and PCL are biocompatible with human body.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
